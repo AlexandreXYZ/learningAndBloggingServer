@@ -1,0 +1,1 @@
+export const DATABASE_URL = "mysql://User:Password@localhost:3306/DatabaseName"

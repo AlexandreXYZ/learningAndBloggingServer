@@ -1,0 +1,3 @@
+#Install vscode Extension 'REST CLIENT'
+
+GET http://localhost:3001/home
