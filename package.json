@@ -1,5 +1,5 @@
 {
-  "name": "LearningAndBlogingServer",
+  "name": "LearningAndBloggingServer",
   "version": "0.0.1",
   "main": "./src/server.ts",
   "license": "MIT",
